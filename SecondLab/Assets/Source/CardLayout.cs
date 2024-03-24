@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using Card;
 using System;
-using Unity.VisualScripting;
 
 public class CardLayout : MonoBehaviour
 {
